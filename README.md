@@ -8,7 +8,7 @@
  Previews of the original tileset and the converted tileset will pop up to make sure it converted correctly\
  Another file dialouge will open asking where to save the file.\
  ![alt text](https://github.com/Storby42/Celeste-Tilemap-Converter/blob/main/Type1Ref.png?raw=true "Improved Template")\
- ![alt text](https://github.com/Storby42/Celeste-Tilemap-Converter/blob/main/Type2Ref.png?raw=true "Vanilla Template")\
+ ![alt text](https://github.com/Storby42/Celeste-Tilemap-Converter/blob/main/Type2Ref.png?raw=true "Vanilla Template")
  
 ## Dependencies
 This program uses\
