@@ -25,7 +25,7 @@ root = tk.Tk()
 root.withdraw()
 
 #Prompt the user to import an image for the original tilemap
-file_path = filedialog.askopenfilename(title="Select tilemap you want to convert", filetypes=[("Image files", "*.png;*.jpg;*.jpeg;*.bmp;*.dib;*.tiff;*.tif;*.jpe;*.jp2;*.pbm;*.pgm;*.ppm;*.sr;*.ras")])
+file_path = filedialog.askopenfilename(title="Select tilemap you want to convert", filetypes=[("Image files", "*.png, *.*")])
 #all imagetypes supported by opencv imread
 
 
